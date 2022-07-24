@@ -1242,7 +1242,7 @@ END GROUP
  .debug_frame   0x00000a88       0x54 usart.o
  .debug_frame   0x00000adc      0x230 work_with_batteries.o
 
-.debug_str      0x00000000      0xdd4
+.debug_str      0x00000000      0xe05
  *(.debug_str)
  .debug_str     0x00000000      0x196 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/Atmel/ATmega_DFP/2.0.401/gcc/dev/atmega32/avr5/crtatmega32.o
  .debug_str     0x00000196      0x164 adc.o
@@ -1253,21 +1253,21 @@ END GROUP
                                 0x222 (size before relaxing)
  .debug_str     0x0000054d       0xfc Encoder.o
                                 0x250 (size before relaxing)
- .debug_str     0x00000649      0x10a main.o
-                                0x335 (size before relaxing)
- .debug_str     0x00000753      0x1f2 menu.o
+ .debug_str     0x00000649      0x13b main.o
+                                0x331 (size before relaxing)
+ .debug_str     0x00000784      0x1f2 menu.o
                                 0x4a4 (size before relaxing)
- .debug_str     0x00000945      0x150 ScanFinder_R300.o
+ .debug_str     0x00000976      0x150 ScanFinder_R300.o
                                 0x30e (size before relaxing)
- .debug_str     0x00000a95       0xa7 ssd_1306E.o
+ .debug_str     0x00000ac6       0xa7 ssd_1306E.o
                                 0x2b0 (size before relaxing)
- .debug_str     0x00000b3c       0x2c timer.o
+ .debug_str     0x00000b6d       0x2c timer.o
                                 0x1a6 (size before relaxing)
- .debug_str     0x00000b68       0x41 twi.o
+ .debug_str     0x00000b99       0x41 twi.o
                                 0x1d0 (size before relaxing)
- .debug_str     0x00000ba9       0x21 usart.o
+ .debug_str     0x00000bda       0x21 usart.o
                                 0x1b2 (size before relaxing)
- .debug_str     0x00000bca      0x20a work_with_batteries.o
+ .debug_str     0x00000bfb      0x20a work_with_batteries.o
                                 0x4a5 (size before relaxing)
 
 .debug_loc      0x00000000     0x32e6
